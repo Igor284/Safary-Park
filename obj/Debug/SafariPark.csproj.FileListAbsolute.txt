@@ -1,0 +1,7 @@
+C:\Users\TurboPC\source\repos\SafariPark\SafariPark\bin\Debug\SafariPark.exe.config
+C:\Users\TurboPC\source\repos\SafariPark\SafariPark\bin\Debug\SafariPark.exe
+C:\Users\TurboPC\source\repos\SafariPark\SafariPark\bin\Debug\SafariPark.pdb
+C:\Users\TurboPC\source\repos\SafariPark\SafariPark\obj\Debug\SafariPark.csprojAssemblyReference.cache
+C:\Users\TurboPC\source\repos\SafariPark\SafariPark\obj\Debug\SafariPark.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\source\repos\SafariPark\SafariPark\obj\Debug\SafariPark.exe
+C:\Users\TurboPC\source\repos\SafariPark\SafariPark\obj\Debug\SafariPark.pdb
